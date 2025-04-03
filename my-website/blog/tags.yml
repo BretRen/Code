@@ -1,0 +1,8 @@
+pdnode:
+  label: "Pdnode"
+  permalink: "/pdnode"
+  description: "about pdnode blog"  # <- 修正拼写
+admin:
+  label: "Admin"
+  permalink: "/Admin"
+  description: "about admin blog"
