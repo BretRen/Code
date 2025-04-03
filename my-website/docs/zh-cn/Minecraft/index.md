@@ -8,6 +8,7 @@ description: index
 This document is only available in Chinese.
 此页面只提供中文版本。
 
-[English version](/docs/en/Minecraft)
+[English version](../../en/Minecraft/)
+
 
 :::

@@ -8,6 +8,7 @@ description: index
 
 This page is also available in Chinese!
 
-[Chinese version](/docs/zh-cn/Minecraft)
+[Chinese version](../../zh-cn/Minecraft/)
+
 
 :::
